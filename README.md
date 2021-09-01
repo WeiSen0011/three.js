@@ -1,5 +1,7 @@
 three.js
 ========
+## WebGL的项目
+### 这个项目十分的具有前沿意义，同时将帮助学习计算机图形学、JavaScript、HTML等等；将有助于对于计算机的相关知识的学习
 
 [![NPM Package][npm]][npm-url]
 [![Build Size][build-size]][build-size-url]
